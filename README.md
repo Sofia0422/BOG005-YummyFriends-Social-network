@@ -34,18 +34,18 @@
 
   - **Historia de usuario 1**
 
-  ![Alt](/src/imagenes/HU1.JPG)
+    ![Alt](/src/imagenes/HU1.JPG)
 
     **Criterios de aceptación:**
-    * El usuario encontrará un formulario donde debe ingresar: Nombre, correo electrónico, Crear una contraseña y confirmarla. Finalmente dar click en botón "Regístrate"
-    * Si el usuario ingresa un correo que ya ha sido registrado previamente, se mostrara un mensaje "Email ya en uso"
-    * Si el usuario no nos da un correo válido (que no agrega el @ o el .com), se mostrara un mensaje "Email inválido"
+    * El usuario encontrará un formulario donde debe ingresar: Nombre, correo electrónico, Crear una contraseña y confirmarla. Finalmente dar click en botón "Regístrate".
+    * Si el usuario ingresa un correo que ya ha sido registrado previamente, se mostrara un mensaje "Email ya en uso".
+    * Si el usuario no nos da un correo válido (que no agrega el .com), se mostrara un mensaje "Email inválido".
     * Si el usuario ingresa menos de 6 caracteres en contraseña, se mostrará un mensaje "La contraseña es demasiado débil. Como mínimo debe tener 6 caracteres".
-    * Al dar click en el botón "Regístrate" el usuario es llevado a la página del Muro con un mensaje "Registro exitoso. Bienvenid@".
+    * Al dar click en el botón "Regístrate" el usuario es llevado a la página del Muro con un mensaje "Registro exitoso. Bienvenido".
 
     **Definición de terminado:**
     Cumplimiento de condiciones: Single-page Application (SPA), responsive (móvil, Tablet, PC), testeo manual para búsqueda de errores e imperfecciones simples, pruebas de usabilidad e incorporaron el feedback de los usuarios como mejoras.
-    
+
 
   - **Hisotria de usuario 2**
 
